@@ -860,8 +860,8 @@ a, div, button {
         transition: all 0.4s cubic-bezier(0.62, 0.21, 0.45, 1.52);
     }
 
-
-.logo img{ width:70%;}
+   
+.logo img{ width: 34%;}
 .copy-one p{ color:#000}
 .min-s span img {
     width: 77px;
@@ -1950,16 +1950,16 @@ textarea.fill-in.text-m {
 .w-price{
     width: 50%;
 }
-.copy-one p a{
+/* .copy-one p a{
     color: #fff;
     
-}
+} */
 .copy-one p {
-    color: #fff;
+    /* color: #fff; */
     text-align: center;
 }
 .bg-dark-new {
-    background: rgb(14 14 14 / 71%);
+    /* background: rgb(14 14 14 / 71%); */
     text-align: center;
 }
 .w-edit
@@ -2161,6 +2161,7 @@ padding: 20px 0px 0px 30px;
     float: center!IMPORTANT;
     
 }
+/* 
 .footer-logo img{
     width: 100%;
-}
+} */
